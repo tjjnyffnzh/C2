@@ -1,6 +1,6 @@
 {
-  "cnc_host": "localhost",
-  "reg_host": "localhost",
+  "cnc_host": "192.168.1.2",
+  "reg_host": "192.168.1.2",
   "cnc_port": 10000,
   "reg_port": 20000
 }
