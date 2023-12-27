@@ -1,5 +1,9 @@
 <h1 align="center">Krypton Botnet</h1>
 
+<p align="center">
+    <img src="https://github.com/CirqueiraDev/KryptonC2/assets/118860604/25572868-0674-4963-afc4-16a8291473e7">
+</p>
+
 <br>
 
  **KryptonC2** is a basic open source [denial of service](https://en.wikipedia.org/wiki/Denial-of-service_attack) [botnet](https://en.wikipedia.org/wiki/Botnet) system written in Python 3, consists of a connect and control server and a bot malware script.
