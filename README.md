@@ -20,8 +20,8 @@
 7. Configure the port on the [config.json](/src/config.json) `{
 "cnc_host": "0.0.0.0",
   "reg_host": "0.0.0.0",
-  "cnc_port": 5511,
-  "reg_port": 5512
+  "cnc_port": 10000,
+  "reg_port": 20000
 }`.
 
 8. Connect to the server through [PuTTY](https://www.putty.org/) on a raw socket connection.
